@@ -1,0 +1,8 @@
+- my-blog
+  - css
+    - style.css
+  - articoli
+    - articolo1.html
+    - articolo2.html
+    - ...
+  - index.html
